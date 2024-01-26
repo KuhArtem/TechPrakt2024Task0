@@ -1,0 +1,10 @@
+# .gitignore
+
+# Директорії
+bin/
+obj/
+.vs/
+.idea/
+
+# Файли
+temporary.txt
